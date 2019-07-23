@@ -1,0 +1,1 @@
+name = "secreManager-pip"

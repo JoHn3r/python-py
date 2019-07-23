@@ -1,0 +1,5 @@
+setup.py
+secret_manager.egg-info/PKG-INFO
+secret_manager.egg-info/SOURCES.txt
+secret_manager.egg-info/dependency_links.txt
+secret_manager.egg-info/top_level.txt
