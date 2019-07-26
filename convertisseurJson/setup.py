@@ -11,7 +11,7 @@ setuptools.setup(
     description="Yaml convertisseur for files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/JoHn3r/python-py/tree/master/convertisseurJson",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
