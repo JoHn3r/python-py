@@ -16,3 +16,6 @@ class ConvertisseurJson:
             resYaml = open('test.yml', 'w')
             resYaml.write(yaml.dump(simplejson.load(json_file)))
             resYaml.close()
+
+if __name__ == "__main__":
+    __init__()
