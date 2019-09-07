@@ -1,0 +1,10 @@
+[
+    {
+        "FQDN": "seloger.com",
+        "ALT_NAMES": ["www.seloger.com","seloger.com"]
+    },
+    {
+        "FQDN": "agorabiz.com",
+        "ALT_NAMES": ["www.agorabiz.com"]
+    }
+]
