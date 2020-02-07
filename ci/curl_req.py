@@ -4,7 +4,7 @@ import base64
 
 
 user = 's-teamcity-iam'
-password = 'Hz8g5?Q0M!j4[Zp'
+password = ''
 param_name = 'aws_secret_access_key'
 param_value = 'test2'
 param_type = 'password'
